@@ -1,0 +1,38 @@
+# ================================
+# Main Models (GGUF)
+# ================================
+https://huggingface.co/city96/Wan2.1-I2V-14B-480P-gguf/resolve/main/wan2.1-i2v-14b-480p-Q3_K_M.gguf models/diffusion_models/wan2.1-i2v-14b-480p-Q3_K_M.gguf
+https://huggingface.co/city96/Wan2.1-I2V-14B-480P-gguf/resolve/main/wan2.1-i2v-14b-480p-Q4_K_M.gguf models/diffusion_models/wan2.1-i2v-14b-480p-Q4_K_M.gguf
+https://huggingface.co/Kijai/WanVideo_comfy_GGUF/resolve/main/InfiniteTalk/Wan2_1-InfiniteTalk_Single_Q8.gguf models/diffusion_models/Wan2_1-InfiniteTalk_Single_Q8.gguf
+https://huggingface.co/unsloth/LTX-2-GGUF/resolve/main/ltx-2-19b-dev-Q6_K.gguf models/diffusion_models/ltx-2-19b-dev-Q6_K.gguf
+
+# ================================
+# LoRA
+# ================================
+https://huggingface.co/Kijai/WanVideo_comfy/resolve/main/Lightx2v/lightx2v_I2V_14B_480p_cfg_step_distill_rank64_bf16.safetensors models/loras/lightx2v_I2V_14B_480p_cfg_step_distill_rank64_bf16.safetensors
+https://huggingface.co/Kijai/LTXV2_comfy/resolve/main/loras/ltx-2-19b-distilled-lora_resized_dynamic_fro09_avg_rank_175_bf16.safetensors models/loras/ltx-2-19b-distilled-lora_resized_dynamic_fro09_avg_rank_175_bf16.safetensors
+
+# ================================
+# Audio / Speech
+# ================================
+https://huggingface.co/Kijai/wav2vec2_safetensors/resolve/main/wav2vec2-chinese-base_fp16.safetensors models/wav2vec2/wav2vec2-chinese-base_fp16.safetensors
+
+# ================================
+# Text Encoders
+# ================================
+https://huggingface.co/Kijai/WanVideo_comfy/resolve/main/umt5-xxl-enc-fp8_e4m3fn.safetensors models/text_encoders/umt5-xxl-enc-fp8_e4m3fn.safetensors
+https://huggingface.co/unsloth/gemma-3-12b-it-GGUF/resolve/267f90340116a4dd1f629984f32c9678b850b3bd/gemma-3-12b-it-Q2_K.gguf models/text_encoders/gemma-3-12b-it-Q2_K.gguf
+https://huggingface.co/Kijai/LTXV2_comfy/resolve/main/text_encoders/ltx-2-19b-embeddings_connector_dev_bf16.safetensors models/text_encoders/ltx-2-19b-embeddings_connector_dev_bf16.safetensors
+https://huggingface.co/Kijai/LTXV2_comfy/resolve/main/text_encoders/ltx-2-19b-embeddings_connector_distill_bf16.safetensors models/text_encoders/ltx-2-19b-embeddings_connector_distill_bf16.safetensors
+
+# ================================
+# VAE
+# ================================
+https://huggingface.co/Kijai/WanVideo_comfy/resolve/main/Wan2_1_VAE_bf16.safetensors models/vae/Wan2_1_VAE_bf16.safetensors
+https://huggingface.co/unsloth/LTX-2-GGUF/resolve/main/vae/ltx-2-19b-dev_audio_vae.safetensors models/vae/ltx-2-19b-dev_audio_vae.safetensors
+https://huggingface.co/unsloth/LTX-2-GGUF/resolve/main/vae/ltx-2-19b-dev_video_vae.safetensors models/vae/ltx-2-19b-dev_video_vae.safetensors
+
+# ================================
+# Extra / Upscalers
+# ================================
+https://huggingface.co/Lightricks/LTX-2/resolve/main/ltx-2-spatial-upscaler-x2-1.0.safetensors models/latent_upscale_models/ltx-2-spatial-upscaler-x2-1.0.safetensors
