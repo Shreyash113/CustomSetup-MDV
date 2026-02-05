@@ -1,21 +1,22 @@
-https://huggingface.co/Kijai/WanVideo_comfy/resolve/main/Wan2_1-I2V-14B-480P_fp8_e4m3fn.safetensors /runpod-slim/ComfyUI/models/checkpoints/Wan2_1-I2V-14B-480P_fp8_e4m3fn.safetensors
+https://huggingface.co/Kijai/WanVideo_comfy/resolve/main/Wan2_1-I2V-14B-480P_fp8_e4m3fn.safetensors /ComfyUI/models/checkpoints/Wan2_1-I2V-14B-480P_fp8_e4m3fn.safetensors
 
-https://huggingface.co/Kijai/WanVideo_comfy/resolve/main/InfiniteTalk/Wan2_1-InfiniTetalk-Single_fp16.safetensors /runpod-slim/ComfyUI/models/checkpoints/Wan2_1-InfiniTetalk-Single_fp16.safetensors
+https://huggingface.co/Kijai/WanVideo_comfy/resolve/main/InfiniteTalk/Wan2_1-InfiniTetalk-Single_fp16.safetensors /ComfyUI/models/checkpoints/Wan2_1-InfiniTetalk-Single_fp16.safetensors
 
-https://huggingface.co/Kijai/WanVideo_comfy/resolve/main/InfiniteTalk/Wan2_1-InfiniteTalk-Multi_fp16.safetensors /runpod-slim/ComfyUI/models/checkpoints/Wan2_1-InfiniteTalk-Multi_fp16.safetensors
+https://huggingface.co/Kijai/WanVideo_comfy/resolve/main/InfiniteTalk/Wan2_1-InfiniteTalk-Multi_fp16.safetensors /ComfyUI/models/checkpoints/Wan2_1-InfiniteTalk-Multi_fp16.safetensors
 
-https://huggingface.co/Kijai/WanVideo_comfy_fp8_scaled/resolve/main/InfiniteTalk/Wan2_1-InfiniteTalk-Single_fp8_e4m3fn_scaled_KJ.safetensors /runpod-slim/ComfyUI/models/checkpoints/Wan2_1-InfiniteTalk-Single_fp8_e4m3fn_scaled_KJ.safetensors
+https://huggingface.co/Kijai/WanVideo_comfy_fp8_scaled/resolve/main/InfiniteTalk/Wan2_1-InfiniteTalk-Single_fp8_e4m3fn_scaled_KJ.safetensors /ComfyUI/models/checkpoints/Wan2_1-InfiniteTalk-Single_fp8_e4m3fn_scaled_KJ.safetensors
 
-https://huggingface.co/Kijai/WanVideo_comfy_fp8_scaled/resolve/main/InfiniteTalk/Wan2_1-InfiniteTalk-Multi_fp8_e4m3fn_scaled_KJ.safetensors /runpod-slim/ComfyUI/models/checkpoints/Wan2_1-InfiniteTalk-Multi_fp8_e4m3fn_scaled_KJ.safetensors
+https://huggingface.co/Kijai/WanVideo_comfy_fp8_scaled/resolve/main/InfiniteTalk/Wan2_1-InfiniteTalk-Multi_fp8_e4m3fn_scaled_KJ.safetensors /ComfyUI/models/checkpoints/Wan2_1-InfiniteTalk-Multi_fp8_e4m3fn_scaled_KJ.safetensors
 
-https://huggingface.co/Kijai/WanVideo_comfy/resolve/main/Lightx2v/lightx2v_I2V_14B_480p_cfg_step_distill_rank64_bf16.safetensors /runpod-slim/ComfyUI/models/loras/lightx2v_I2V_14B_480p_cfg_step_distill_rank64_bf16.safetensors
+https://huggingface.co/Kijai/WanVideo_comfy/resolve/main/Lightx2v/lightx2v_I2V_14B_480p_cfg_step_distill_rank64_bf16.safetensors /ComfyUI/models/loras/lightx2v_I2V_14B_480p_cfg_step_distill_rank64_bf16.safetensors
 
-https://huggingface.co/Kijai/WanVideo_comfy/resolve/81e4b466274f154114463e8d76b36a307b4b29af/Lightx2v/lightx2v_I2V_14B_480p_cfg_step_distill_rank256_bf16.safetensors /runpod-slim/ComfyUI/models/loras/lightx2v_I2V_14B_480p_cfg_step_distill_rank256_bf16.safetensors
+https://huggingface.co/Kijai/WanVideo_comfy/resolve/81e4b466274f154114463e8d76b36a307b4b29af/Lightx2v/lightx2v_I2V_14B_480p_cfg_step_distill_rank256_bf16.safetensors /ComfyUI/models/loras/lightx2v_I2V_14B_480p_cfg_step_distill_rank256_bf16.safetensors
 
-https://huggingface.co/Kijai/wav2vec2_safetensors/resolve/main/wav2vec2-chinese-base_fp16.safetensors /runpod-slim/ComfyUI/models/audio_encoders/wav2vec2-chinese-base_fp16.safetensors
+https://huggingface.co/Kijai/wav2vec2_safetensors/resolve/main/wav2vec2-chinese-base_fp16.safetensors /ComfyUI/models/audio_encoders/wav2vec2-chinese-base_fp16.safetensors
 
-https://huggingface.co/Kijai/WanVideo_comfy/resolve/main/umt5-xxl-enc-bf16.safetensors /runpod-slim/ComfyUI/models/text_encoders/umt5-xxl-enc-bf16.safetensors
+https://huggingface.co/Kijai/WanVideo_comfy/resolve/main/umt5-xxl-enc-bf16.safetensors /ComfyUI/models/text_encoders/umt5-xxl-enc-bf16.safetensors
 
-https://huggingface.co/Kijai/WanVideo_comfy/resolve/main/Wan2_1_VAE_bf16.safetensors /runpod-slim/ComfyUI/models/vae/Wan2_1_VAE_bf16.safetensors
+https://huggingface.co/Kijai/WanVideo_comfy/resolve/main/Wan2_1_VAE_bf16.safetensors /ComfyUI/models/vae/Wan2_1_VAE_bf16.safetensors
 
-https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged/resolve/main/split_files/clip_vision/clip_vision_h.safetensors /runpod-slim/ComfyUI/models/clip_vision/clip_vision_h.safetensors
+https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged/resolve/main/split_files/clip_vision/clip_vision_h.safetensors /ComfyUI/models/clip_vision/clip_vision_h.safetensors
+
