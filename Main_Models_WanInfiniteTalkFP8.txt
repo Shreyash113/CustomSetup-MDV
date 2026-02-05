@@ -11,6 +11,12 @@ https://huggingface.co/Kijai/WanVideo_comfy_fp8_scaled/resolve/main/InfiniteTalk
 
 https://huggingface.co/Kijai/WanVideo_comfy_fp8_scaled/resolve/main/InfiniteTalk/Wan2_1-InfiniteTalk-Multi_fp8_e4m3fn_scaled_KJ.safetensors models/diffusion_models/Wan2_1-InfiniteTalk-Multi_fp8_e4m3fn_scaled_KJ.safetensors
 
+https://huggingface.co/city96/Wan2.1-I2V-14B-480P-gguf/resolve/main/wan2.1-i2v-14b-480p-Q6_K.gguf models/diffusion_models/wan2.1-i2v-14b-480p-Q6_K.gguf
+
+https://huggingface.co/Kijai/WanVideo_comfy_GGUF/resolve/main/InfiniteTalk/Wan2_1-InfiniteTalk_Single_Q8.gguf models/diffusion_models/InfiniteTalk/Wan2_1-InfiniteTalk_Single_Q8.gguf
+
+https://huggingface.co/Kijai/WanVideo_comfy_GGUF/resolve/main/InfiniteTalk/Wan2_1-InfiniteTalk_Multi_Q8.ggufmodels/diffusion_models/Wan2_1-InfiniteTalk_Single_Q8.gguf
+
 
 # ================================
 # LoRA
@@ -31,6 +37,8 @@ https://huggingface.co/Kijai/wav2vec2_safetensors/resolve/main/wav2vec2-chinese-
 # ================================
 https://huggingface.co/Kijai/WanVideo_comfy/resolve/main/umt5-xxl-enc-bf16.safetensors models/text_encoders/umt5-xxl-enc-bf16.safetensors
 
+https://huggingface.co/Kijai/WanVideo_comfy/resolve/main/umt5-xxl-enc-fp8_e4m3fn.safetensors models/text_encoders/umt5-xxl-enc-fp8_e4m3fn.safetensors
+
 
 # ================================
 # VAE
@@ -42,4 +50,5 @@ https://huggingface.co/Kijai/WanVideo_comfy/resolve/main/Wan2_1_VAE_bf16.safeten
 # clip_vision
 # ================================
 https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged/resolve/main/split_files/clip_vision/clip_vision_h.safetensors models/clip_vision/clip_vision_h.safetensors
+
 
