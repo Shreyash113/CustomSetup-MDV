@@ -55,11 +55,17 @@ https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged/resolve/main/split_f
 # Flash_VSR_1.1
 # ================================
 https://huggingface.co/JunhaoZhuang/FlashVSR-v1.1/resolve/main/diffusion_pytorch_model_streaming_dmd.safetensors models/FlashVSR-v1.1/diffusion_pytorch_model_streaming_dmd.safetensors
+
 https://huggingface.co/JunhaoZhuang/FlashVSR-v1.1/resolve/main/Wan2.1_VAE.pth models/FlashVSR-v1.1/Wan2.1_VAE.pth
+
 https://huggingface.co/JunhaoZhuang/FlashVSR-v1.1/resolve/main/TCDecoder.ckpt models/FlashVSR-v1.1/TCDecoder.ckpt
+
 https://huggingface.co/JunhaoZhuang/FlashVSR-v1.1/resolve/main/README.md models/FlashVSR-v1.1/README.md
+
 https://huggingface.co/JunhaoZhuang/FlashVSR-v1.1/resolve/main/LQ_proj_in.ckpt models/FlashVSR-v1.1/LQ_proj_in.ckpt
+
 https://huggingface.co/JunhaoZhuang/FlashVSR-v1.1/resolve/main/.gitattributes models/FlashVSR-v1.1/.gitattributes
+
 
 
 
